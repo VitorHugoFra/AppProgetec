@@ -1,0 +1,4 @@
+#Mon Mar 25 16:29:18 BRT 2019
+base.0=/home/vitor/Downloads/Estagio/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
